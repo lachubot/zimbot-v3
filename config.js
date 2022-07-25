@@ -8,8 +8,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +917736558244
+//▮YOUTUBE CHANNELL: https://youtube.com/TravelthroughDlife
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -41,10 +41,10 @@ global.owner = ['27634090203','']
 global.premium = ['27634090203','918188019676']
 global.botname = 'ZIM BOT INC'
 global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.group1 = 'https://chat.whatsapp.com/CiYxfRhsurGBkM8LAeIh1A'
+global.group2 = 'https://chat.whatsapp.com/CiYxfRhsurGBkM8LAeIh1A'
+global.packname = 'Lachu BOT INC'
+global.ytchannel = 'https://youtu.be/TravelthroughDlife'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
